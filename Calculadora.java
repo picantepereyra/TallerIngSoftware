@@ -22,6 +22,7 @@ System.out.println("Parametros Incorrectos");
 
 }else{
 System.out.println("Uso : Calculadora operador operando1 operando2");
+System.out.println("");
 }
 }
 }
